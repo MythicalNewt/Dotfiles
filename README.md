@@ -9,4 +9,7 @@ Most of them are dracula themed.<br>
 
 <h3>Credits:</h3>
 I use adi1090x's rofi config.<br>
-Check him out: https://github.com/adi1090x/
+Check him out: https://github.com/adi1090x/<br>
+<br>
+Wallpaper:
+https://www.deviantart.com/bisbiswas
