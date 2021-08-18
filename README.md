@@ -2,7 +2,7 @@
 Dotfiles for my arch installation.<br>
 Most of them are dracula themed.<br>
 
-![Dotfiles](https://tinyimg.io/i/XKZyYjk.png)
-
+![Dotfiles](https://cdn.discordapp.com/attachments/831056036969840671/877599867986399272/unknown.png)
+![Dotfiles](https://cdn.discordapp.com/attachments/831056036969840671/877599889683542037/unknown.png)
 I use adi1090x's rofi config.<br>
 Check him out: https://github.com/adi1090x/
