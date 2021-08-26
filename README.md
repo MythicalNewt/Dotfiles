@@ -1,4 +1,4 @@
-# Dotfiles
+# Files
 Dotfiles for my arch installation.<br>
 Most of them are dracula themed.<br>
 <br>
