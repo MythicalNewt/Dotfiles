@@ -224,7 +224,7 @@ gaps inner 7
 gaps outer 3
 
 # Compositor
-exec_always picom
+#exec_always picom
 
 # polybar launch script
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
