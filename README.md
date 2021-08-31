@@ -5,6 +5,7 @@ Most of them are dracula themed.<br>
 <h3>Screenshots<br></h3>
   
 ![Dotfiles](https://cdn.discordapp.com/attachments/831056036969840671/879954686839492608/unknown.png)
+![Dotfiles](https://cdn.discordapp.com/attachments/831056036969840671/882179844438392862/unknown.png)
 
 <h3>Credits:</h3>
 I use adi1090x's rofi config.<br>
