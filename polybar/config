@@ -109,7 +109,7 @@ cursor-scroll = ns-resize
 type = internal/xwindow
 label = %title:0:30:...%
 label-font = 7
-label-foreground = #1675DC
+label-foreground = #fdb156
 
 [module/xkeyboard]
 type = internal/xkeyboard
