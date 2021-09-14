@@ -3,10 +3,9 @@ Dotfiles for my arch installation.<br>
 Most of them are dracula themed.<br>
 <br>
 <h3>Screenshots<br></h3>
-  
-![Dotfiles](https://cdn.discordapp.com/attachments/831056036969840671/879954686839492608/unknown.png)<br><br>
-![Dotfiles](https://cdn.discordapp.com/attachments/831056036969840671/882179844438392862/unknown.png)<br><br>
-![Dotfiles](https://cdn.discordapp.com/attachments/831056036969840671/887290301109137438/unknown.png)
+
+![image](https://user-images.githubusercontent.com/89124240/133271641-b65abfe7-3103-4323-aea9-9eacb47f38c9.png)
+<br>
 
 <h3>Credits:</h3>
 Wallpaper:
