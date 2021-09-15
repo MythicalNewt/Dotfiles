@@ -217,6 +217,7 @@ bindsym $mod+shift+d exec ~/Discord/Discord
 for_window [class="Alacritty"] border pixel 2
 for_window [class="Brave-browser"] border pixel 2
 for_window [class="Atom"] border pixel 2
+for_window [class="Org.gnome.Nautilus"] border pixel 2
 for_window [class="discord"] border pixel 2
 
 # Window gaps
