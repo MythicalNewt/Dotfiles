@@ -77,14 +77,20 @@ alias cp="cp -i"
 alias mv='mv -i'
 alias rm='rm -i'
 
-# Editor
-EDITOR=vim
-
 ## Prints random ascii art on startup ##
 #colorscript random
 
 ## vim related ignore ##
 export MICRO_TRUECOLOR=1
+export VISUAL=vim
+ 
+## exports
+export LANG=en_US.UTF-8
+export HISTCONTROL=ignoreboth
+export BROWSER=brave
+export EDITOR=vim
+export PATH
+export TERMINAL=alacritty
 
 ## starship shell prompt call ##
 eval "$(starship init bash)"
