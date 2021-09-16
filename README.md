@@ -4,7 +4,7 @@ Most of them are dracula themed.<br>
 <br>
 <h3>Screenshots<br></h3>
 
-![image](https://user-images.githubusercontent.com/89124240/133271641-b65abfe7-3103-4323-aea9-9eacb47f38c9.png)
+![image](https://cdn.discordapp.com/attachments/831056036969840671/887983282413780992/RICE.png)
 <br>
 
 <h3>Credits:</h3>
