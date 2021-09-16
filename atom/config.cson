@@ -1,0 +1,22 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "spell-check"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "dracula-syntax"
+    ]
+  editor:
+    fontFamily: "mononoki Nerd Font"
+    invisibles:
+      tab: "ꞏ"
+    scrollPastEnd: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "927853d4-6604-46e7-a8fd-ab80cf7ed7d5"
+  welcome:
+    showOnStartup: false
