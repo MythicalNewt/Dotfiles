@@ -16,7 +16,5 @@
     scrollPastEnd: true
     showInvisibles: true
     softWrap: true
-  "exception-reporting":
-    userId: "927853d4-6604-46e7-a8fd-ab80cf7ed7d5"
   welcome:
     showOnStartup: false
