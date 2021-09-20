@@ -205,9 +205,6 @@ bindsym XF86AudioPause exec playerctl pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
-# Wallpaper
-exec_always nitrogen --restore
-
 # Keybindings
 bindsym $mod+b exec brave
 bindsym $mod+shift+a exec atom
@@ -223,6 +220,9 @@ for_window [class="discord"] border pixel 2
 # Window gaps
 gaps inner 7
 gaps outer 3
+
+# Wallpaper
+exec_always nitrogen --restore
 
 # Compositor
 exec_always picom
