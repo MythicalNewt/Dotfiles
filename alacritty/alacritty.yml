@@ -20,6 +20,9 @@ font:
  normal:
    family: mononoki Nerd Font
    style: Regular
+# Bolds and italics broke some applications hence i have commented them out.
+# Uncomment if needed.
+#
 # bold:
 #   family: mononoki Nerd Font Bold
 #   style: Bold
