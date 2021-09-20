@@ -55,13 +55,13 @@ ex ()
 }
 
 
-# pacman and yay
+# Pacman and yay
 alias pacsyu='sudo pacman -Syyu'                 # update only standard pkgs
 alias yaysua='yay -Sua --noconfirm'              # update only AUR pkgs (yay)
 alias yaysyu='yay -Syu --noconfirm'              # update standard pkgs and AUR pkgs (yay)
 alias unlock='sudo rm /var/lib/pacman/db.lck'    # remove pacman lock
 
-# get fastest mirrors
+# Get fastest mirrors
 alias mirror="sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist"
 alias mirrord="sudo reflector --latest 50 --number 20 --sort delay --save /etc/pacman.d/mirrorlist"
 alias mirrors="sudo reflector --latest 50 --number 20 --sort score --save /etc/pacman.d/mirrorlist"
@@ -72,19 +72,19 @@ alias grep='grep --color=auto'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 
-# confirm before overwriting something
+# Confirm before overwriting something
 alias cp="cp -i"
 alias mv='mv -i'
 alias rm='rm -i'
 
-## Prints random ascii art on startup ##
+# Prints ascii art on startup
 #colorscript random
 
-## vim related ignore ##
+# Vim related ignore 
 export MICRO_TRUECOLOR=1
 export VISUAL=vim
  
-## exports
+# Exports
 export LANG=en_US.UTF-8
 export HISTCONTROL=ignoreboth
 export BROWSER=brave
@@ -92,5 +92,5 @@ export EDITOR=vim
 export PATH
 export TERMINAL=alacritty
 
-## starship shell prompt call ##
+# Starship shell prompt call( Has to be the last line )
 eval "$(starship init bash)"
