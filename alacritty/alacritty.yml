@@ -9,6 +9,7 @@
 #
 # Author: Shreyas
 
+# Fonts and window decorations
 window:
  padding:
    x: 5 
@@ -29,6 +30,7 @@ font:
    family: mononoki Nerd Font Bold Italic
    style: Bold Italic
 
+# Terminal colors
 colors:
   primary:
     background: '0x282a36'
@@ -83,7 +85,10 @@ colors:
     cyan:    '0x59dffc'
     white:   '0xe6e6d1'
 
+# Opacity
 background_opacity: 0.7
+
+# Keybindings
 key_bindings:
   - { key: V,         mods: Control|Shift, action: Paste                       }
   - { key: C,         mods: Control|Shift, action: Copy                        }
