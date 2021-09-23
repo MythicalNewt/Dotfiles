@@ -19,7 +19,6 @@ filetype plugin indent on
 call plug#begin()
 
 Plug 'ryanoasis/vim-devicons'
-Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'https://github.com/ap/vim-css-color.git' 
 Plug 'PotatoesMaster/i3-vim-syntax'
 
