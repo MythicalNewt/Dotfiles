@@ -51,6 +51,7 @@ _comp_options+=(globdots)
 # Aliases
 alias ls="lsd -a"
 alias ll="lsd -al"
+alias neofetch="neofetch --source /home/shreyas/wallpaper/blackcat.txt"
 
 ### CHANGE TITLE OF TERMINALS
 #case ${TERM} in
