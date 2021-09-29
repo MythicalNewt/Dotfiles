@@ -1,6 +1,7 @@
 # Dotfiles
 Dotfiles for my arch installation.<br>
 Most of them are dracula themed.<br>
+Since I daily drive these dotfiles you may see some minor changes in them compared to the screenshots.<br>
 <br>
 <h3>Screenshots<br></h3>
 
