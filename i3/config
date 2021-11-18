@@ -198,8 +198,8 @@ mode "resize" {
 # resize mode binding
 bindsym $mod+r mode "resize"
 
-# i3lock binding
-bindsym $mod+shift+x exec i3lock --color=2f343f
+# rofi powermenu binging requires https://github.com/jluttine/rofi-power-menu
+bindsym $mod+shift+x exec ~/.config/i3/scripts/rofi-powermenu.sh
 
 # Pulse Audio controls
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume
@@ -227,7 +227,6 @@ for_window [class="Org.gnome.Nautilus"] border pixel 2
 
 # Window gaps
 gaps inner 7
-gaps outer 3
 
 # Wallpaper
 exec_always nitrogen --restore
