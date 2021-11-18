@@ -1,4 +1,5 @@
 # configuration for rofi-power tool
+# file path ~/.config/rofi-power/config
 LAUNCHER="rofi -width 30 -dmenu -i -p power-options: "
 USE_LOCKER="true"
 LOCKER="i3lock-fancy"
