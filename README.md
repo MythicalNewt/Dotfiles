@@ -1,5 +1,5 @@
 # Dotfiles
-Dotfiles for my arch installation.<br>
+Phased out.<br>
 Most of them are dracula themed.<br>
 These dots are not being used anymore.<br>
 <br>
