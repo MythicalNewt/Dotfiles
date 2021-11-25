@@ -5,7 +5,7 @@
 #(_)___|___/_| |_|_|  \___|
 #
 # Basic zsh config.
-# Author: Shreyas
+# Author: MythicalNewt
 
 # Enable colors 
 autoload -U colors && colors
