@@ -1,6 +1,6 @@
 # Starship shell prompt config
 #
-# Author: Shreyas
+# Author: MythicalNewt
 
 # Inserts a blank line between shell prompts
 add_newline = false
