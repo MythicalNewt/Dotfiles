@@ -3,3 +3,5 @@ To set default browser to brave:
 $ xdg-settings set default-web-browser brave.desktop
 To set URL-handlers:
 $ xdg-mime default brave.desktop x-scheme-handler/https x-scheme-handler/http
+To set vscode as default editor.
+$  xdg-mime default code-oss.desktop text/plain
